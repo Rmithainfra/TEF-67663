@@ -31,7 +31,7 @@ var viewer = pannellum.viewer('panorama', {
 
       "image-3": {
         "type": "equirectangular",
-        "panorama": "21.5m.jpg",
+        "panorama": "21.5m.JPG",
         "hfov":200,
         "haov":360,
         "vaov":180,
